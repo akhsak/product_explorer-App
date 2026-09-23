@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "10033794531",
+    "firebase_url": "https://product-explorer-e06d1-default-rtdb.firebaseio.com",
+    "project_id": "product-explorer-e06d1",
+    "storage_bucket": "product-explorer-e06d1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10033794531:android:4db47186f29722f06a64d6",
+        "android_client_info": {
+          "package_name": "com.example.aurify_task"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0shmjgCvjxibrLsOfHZomKfB7oCFmG30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10033794531:android:3fe6117c7d448c326a64d6",
+        "android_client_info": {
+          "package_name": "com.example.product_explorer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0shmjgCvjxibrLsOfHZomKfB7oCFmG30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
